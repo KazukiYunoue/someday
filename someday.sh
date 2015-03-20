@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DAYS=./days.list
+DAYS=/PATH/TO/SOMEDAY/days.list
 YEAR=`date "+%Y"`
 MONTH=`date "+%m"`
 DAY=`date "+%d"`
