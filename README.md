@@ -3,7 +3,8 @@
 
 # Install
     git clone https://github.com/KazukiYunoue/someday.git
-    vi days.list
+    cd someday
+    vi days.list # fill out days
 
 # Cron
     MM DD * * * /PATH/TO/SH/someday.sh > /dev/null 2>&1
