@@ -8,4 +8,4 @@
     vi someday.sh # change days.list path
 
 # Cron
-    MM DD * * * /PATH/TO/SH/someday.sh > /dev/null 2>&1
+    MM HH * * * /PATH/TO/SH/someday.sh > /dev/null 2>&1
